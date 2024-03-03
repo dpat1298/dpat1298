@@ -1,7 +1,7 @@
 # Hello, I'm Dennis!
 <a href="https://www.linkedin.com/in/denniskpatton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am PLC/SCADA Programmer with a passion . I have been programming PLCs for 5 years and SCADA systems for 2. I have worked mostly in the water/wastewater and robotics industries on both the design and commissioning side as well as the maintenance side.
+I am PLC/SCADA Programmer with a developing passion for cybersecurity. I have been programming PLCs for 5 years and SCADA systems for 2. I have worked mostly in the water/wastewater and robotics industries on both the design and commissioning side as well as the maintenance side.
 
 ## Objective
 
