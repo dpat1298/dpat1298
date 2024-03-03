@@ -1,14 +1,11 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Dennis!
+<a href="https://www.linkedin.com/in/denniskpatton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am PLC/SCADA Programmer working to pivot into an Operational Technology networking/security career path. I have been programming PLCs for 5 years, and programming SCADA systems for 2. I have worked mostly in the water/wastewater and robotics industries on both the design and commissioning side as well as the maintenance side.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+After being exposed to what Operational Technology (OT) is I have developed a passion to learn OT networking and security principles. I am currently pursuing my bachelor's degree in Cybersecurity and Information Assurance on my personal time, and through my employer taking professional development opportunities to learn OT principles. My goal is to develop into an OT security professional.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
