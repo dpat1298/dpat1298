@@ -1,12 +1,12 @@
 # Hello, I'm Dennis!
 <a href="https://www.linkedin.com/in/denniskpatton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am PLC/SCADA Programmer working to pivot into an Operational Technology networking/security career path. I have been programming PLCs for 5 years, and programming SCADA systems for 2. I have worked mostly in the water/wastewater and robotics industries on both the design and commissioning side as well as the maintenance side.
+I am PLC/SCADA Programmer with a passion . I have been programming PLCs for 5 years and SCADA systems for 2. I have worked mostly in the water/wastewater and robotics industries on both the design and commissioning side as well as the maintenance side.
 
 ## Objective
 
 After being exposed to what Operational Technology (OT) is I have developed a passion to learn OT networking and security principles. I am currently pursuing my bachelor's degree in Cybersecurity and Information Assurance on my personal time, and through my employer taking professional development opportunities to learn OT principles. My goal is to develop into an OT security professional.
-
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -41,16 +41,14 @@ After being exposed to what Operational Technology (OT) is I have developed a pa
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </iv>
-
+-->
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<a href="https://www.linkedin.com/in/denniskpatton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div>
+<a href="https://www.credly.com/badges/843e2230-9a08-487d-aa8b-0392e42dc7d0/public_url"><img src="./img/badges/certified-in-cybersecurity-cc.png" width="100" height="100" /></a>
+<a href="https://www.credly.com/badges/b238b06c-dc70-40bc-99df-3adb128c7a6e/public_url"><img src="./img/badges/comptia-a-ce-certification.1.png" width="100" height="100" /></a>
 </div>
-
+<!--
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
